@@ -5,7 +5,7 @@ Ai Engineer
 -----------
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [amrohameed123@gmail.com,Discord:amro_o](mailto:amrohameed123@gmail.com)
+* ✉️  You can contact me at [Discord:amro_o][amrohameed123@gmail.com](mailto:amrohameed123@gmail.com)
 
 <a href="https://www.github.com/AmroEid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AmroEid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
